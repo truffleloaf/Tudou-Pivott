@@ -140,6 +140,3 @@ The built-in demo is separate: **8 roles, 39 tasks, 15 skills, 20 signals, 25 le
 
 Use the [documentation index](docs/README.md) to find architecture, data, deployment, verification and backend references.
 
-## Team and licence
-
-> **Owner action required:** add the team members and choose a repository licence before judging. No project licence is asserted here.
