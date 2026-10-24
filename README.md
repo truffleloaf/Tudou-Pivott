@@ -24,7 +24,7 @@ Don't predict the job. Map the tasks. Route the skills.
 | **Live Demo** | [Open Pivott on Replit](https://pivott.replit.app/workspace) |
 | **RunPod Endpoint** | - |
 | **Slide Deck** | [**Pitch deck (PDF):** [View on Google Drive](https://drive.google.com/file/d/1atC76KmzC__ldC8ABnpGl03yC5ITC6DP/view?usp=sharing)] |
-| **Demo Video** | [Add your demo video link] |
+| **Demo Video** | Demo on YouTube](https://youtu.be/rNJ4o8pxcAc?si=T8ILyeJXBZ-b-qx9) |
 
 **Live demo:** [pivottstudio.vercel.app](https://pivottstudio.vercel.app)
 **Replit Demo** [Open Pivott on Replit](https://pivott.replit.app/workspace) |
